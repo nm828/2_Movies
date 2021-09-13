@@ -26,6 +26,8 @@ Time spent: **8 hours**
 
 ### Notes
 Describe any challenges encountered while building the app.
+   - Emulator was quitting the app.
+   - Sometimes the information of the API was not loading
 
 ### Open-source libraries used
 
